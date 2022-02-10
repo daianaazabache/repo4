@@ -1,3 +1,23 @@
 body{
     font-family: 'Courier New', Courier, monospace;
 }
+nav{
+    background-color: antiquewhite;
+    padding: 4em;
+}
+
+nav ul{
+    list-style-type: none;
+}
+
+nav a {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: rebeccapurple;
+}
+
+nav a:hover {
+    color: #a44;
+}
+
+
