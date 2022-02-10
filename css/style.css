@@ -1,6 +1,10 @@
 body{
     font-family: 'Courier New', Courier, monospace;
 }
+
+h1, h2{
+    text-align: center;
+}
 nav{
     background-color: lightcoral
     padding 4em;
